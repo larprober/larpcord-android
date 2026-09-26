@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- close to Discord's dark theme so there's no flash while it loads -->
+    <color name="app_bg">#FF121214</color>
+    <color name="icon_bg">#FF15110D</color>
+    <color name="gold">#FFE0A64A</color>
+</resources>

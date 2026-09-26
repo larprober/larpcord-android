@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Larpcord</string>
+    <string name="notif_channel_messages">Messages</string>
+    <string name="notif_channel_messages_desc">Discord notifications while Larpcord is open or in the background</string>
+    <string name="offline">Can\'t reach Discord. Check your connection and pull down to retry.</string>
+    <string name="no_app_for_link">No app on this phone can open that link.</string>
+    <string name="download_started">Downloading %1$s</string>
+</resources>
